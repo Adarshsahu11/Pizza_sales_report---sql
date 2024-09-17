@@ -7,12 +7,14 @@ Hello Everyone,
 » I'm excited to share my recent SQL project titled ''Pizza Sales Analysis''
 
 
+
 ✤ Project Description:
 • This project uses SQL to analyze the dataset of an Pizza Sales.
 
 • The objective of the project is to gain valuable insights into the sales operations, Customer Segmentation, trends, sales growth, customer interest and money spent by customer.
 
 • The goal of the project is to answer a set of questions about the pizza sales business performance and help in its growth by making better decisions.
+
 
 
 
@@ -24,6 +26,7 @@ Hello Everyone,
 ✤ Tables Used:
 
 • PIZZA_SALES
+
 
 
 ✤ Project Overview
@@ -39,6 +42,7 @@ The primary objectives of this project are:
 • To track monthly revenue growth.
 
 • To identify the most popular and most expensive pizzas
+
 
 
 
@@ -68,7 +72,9 @@ Calculate the percentage contribution of each pizza type to total revenue.
 
 Analyze the cumulative revenue generated over time.
 
-Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+Determine the top 3 most ordered pizza types based on revenue for each pizza category.4
+
+
 
 
 Conclusion:-
