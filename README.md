@@ -31,46 +31,48 @@ Hello Everyone,
 
 The primary objectives of this project are:
 
-• To determine the most profitable days and times.
+- total revenue generated from pizza sales
 
-• To identify the average order values and revenue contributions by pizza categories.
+- To identify most expensive pizza
 
-• To understand customer preferences for different pizza sizes.
+- Which categories in demand
 
-• To track monthly revenue growth.
+- Top 5 most ordered pizzas
 
-• To identify the most popular and most expensive pizzas
+- Most common size pizza ordered
+
+- Number of orders by hour of the day
 
 
 
 
 ✤ Queries of the Project:
 
-Retrieve the total number of orders placed.
+# Retrieve the total number of orders placed.
 
-Calculate the total revenue generated from pizza sales.
+# Calculate the total revenue generated from pizza sales.
 
-Identify the highest-priced pizza.
+# Identify the highest-priced pizza.
 
-Identify the most common pizza size ordered.
+# Identify the most common pizza size ordered.
 
-List the top 5 most ordered pizza types along with their quantities.
+# List the top 5 most ordered pizza types along with their quantities.
 
-Join the necessary tables to find the total quantity of each pizza category ordered.
+# Join the necessary tables to find the total quantity of each pizza category ordered.
 
-Determine the distribution of orders by hour of the day.
+# Determine the distribution of orders by hour of the day.
 
-Join relevant tables to find the category-wise distribution of pizzas.
+# Join relevant tables to find the category-wise distribution of pizzas.
 
-Group the orders by date and calculate the average number of pizzas ordered per day.
+# Group the orders by date and calculate the average number of pizzas ordered per day.
 
-Determine the top 3 most ordered pizza types based on revenue.
+# Determine the top 3 most ordered pizza types based on revenue.
 
-Calculate the percentage contribution of each pizza type to total revenue.
+# Calculate the percentage contribution of each pizza type to total revenue.
 
-Analyze the cumulative revenue generated over time.
+# Analyze the cumulative revenue generated over time.
 
-Determine the top 3 most ordered pizza types based on revenue for each pizza category.4
+# Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
 
 
