@@ -79,9 +79,16 @@ The primary objectives of this project are:
 
 Conclusion:-
 
-✤ Saturday emerges as the most profitable day of the week
-✤ Classic pizzas account for the largest percentage of total revenue, highlighting their consistent popularity.
-✤ Large pizzas are the most frequently ordered size, indicating a trend towards larger portions
-✤ Peak revenue is generated around 6 PM, suggesting this time frame is optimal for targeted promotions.
-✤ The top three most expensive pizzas are Deluxe_Supreme, Premium_Margherita, and Ultimate_Veggie, indicating a market for high-end options.
-✤ There is a positive growth trend in cumulative monthly revenue, signaling steady business growth
+CONCLUSION
+- TOTAL REVENUE GENERATED IS AROUND - “347935"
+- "THE GREEK PIZZA" IS THE MOST EXPENSIVE PIZZA
+- "L" IS THE MOST COMMON SIZE PIZZA ORDERED
+- TOP 5 MOST ORDERED PIZZA
+   THE BARBECUE CHICKEN PIZZA
+   THE PEPPERONI PIZZA
+   THE HAWAIIAN PIZZA
+   THE CLASSIC DELUXE PIZZA
+   THE THAI CHICKEN PIZZA
+- TOP CATEGORY WHICH PEOPLE LIKE TO PREFERREDMOST IS "CLASSIC" FOLLOWED BY "SUPREME","VEGGIE","CHICKEN"
+- IN "AFTERNOON" AND "EVENING" ORDERED OF PIZZAINCREASED MOST
+
