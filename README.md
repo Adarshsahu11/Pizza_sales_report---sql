@@ -4,7 +4,7 @@
 
 Hello Everyone,
 
-» I'm excited to share my recent SQL project titled ''Pizza Sales Analysis''
+_» I'm excited to share my recent SQL project titled ''Pizza Sales Analysis''_
 
 
 
@@ -17,11 +17,11 @@ Hello Everyone,
 
 
 ✤ **Tool Used:**
-• MySQL
+-  MySQL
 
 
 ✤ **Tables Used:**
-• PIZZA_SALES
+- PIZZA_SALES
 
 
 
