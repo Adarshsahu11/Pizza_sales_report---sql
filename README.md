@@ -10,7 +10,9 @@ Hello Everyone,
 
 ✤ Project Description:
 • This project uses SQL to analyze the dataset of an Pizza Sales.
+
 • The objective of the project is to gain valuable insights into the sales operations, Customer Segmentation, trends, sales growth, customer interest and money spent by customer.
+
 • The goal of the project is to answer a set of questions about the pizza sales business performance and help in its growth by making better decisions.
 
 
