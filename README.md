@@ -1,6 +1,6 @@
 # Pizza_sales_report---sql
 
-Pizza Sales Analysis
+**Pizza Sales Analysis**
 
 Hello Everyone,
 
@@ -8,21 +8,19 @@ Hello Everyone,
 
 
 
-✤ Project Description:
-• This project uses SQL to analyze the dataset of an Pizza Sales.
-
-• The objective of the project is to gain valuable insights into the sales operations, Customer Segmentation, trends, sales growth, customer interest and money spent by customer.
-
-• The goal of the project is to answer a set of questions about the pizza sales business performance and help in its growth by making better decisions.
+✤ **Project Description:**
+- This project uses SQL to analyze the dataset of an Pizza Sales.
+- The objective of the project is to gain valuable insights into the sales operations, Customer Segmentation, trends, sales growth, customer interest and money spent by customer.
+- The goal of the project is to answer a set of questions about the pizza sales business performance and help in its growth by making better decisions.
 
 
 
 
-✤ Tool Used:
+✤ **Tool Used:**
 • MySQL
 
 
-✤ Tables Used:
+✤ **Tables Used:**
 • PIZZA_SALES
 
 
@@ -31,8 +29,7 @@ Hello Everyone,
 
 The primary objectives of this project are:
 
--TOTAL REVENUE GENERATED FROM PIZZA
-  SALES
+- TOTAL REVENUE GENERATED FROM PIZZA SALES
 - TO IDENTIFY MOST EXPENSIVE PIZZA
 - WHICH CATEGORIES IN DEMAND
 - TOP 5 MOST ORDERED PIZZAS
